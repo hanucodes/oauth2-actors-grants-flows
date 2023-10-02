@@ -2,7 +2,8 @@
 OAuth 2.0 Tutorial and CheatSheat having OAuth Actors, Grant Types, Flows and OAuth Endpoints
 
 # What is OAuth 2?
-https://helpercodes.com/oauth-2-0-tutorial-part-1-oauth-actors/
+
+https://helpercodes.com/oauth-2-0-tutorial-what-is-oauth-2/
 
 Suppose you want to use a great new third party application for Emails that has many awesome features you want. However, this new email application will need access to your Gmail emails in order to work.
 
@@ -18,7 +19,7 @@ Now the third-party app can use this Access Token and access only your Gmail ema
 
 # OAuth 2.0 Tutorial: Part 1 OAuth Actors
 
-Actors	Role
+[OAuth Actors and their Role Table View](https://helpercodes.com/oauth-2-0-tutorial-part-1-oauth-actors/)
 
 Resource Owner	
 1. owns resources – like email
